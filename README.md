@@ -7,7 +7,7 @@ This is a project inspired by CodeIgniter4, and used for displaying exception an
 ## Install
 
 ```shell
-composer installl fanqingxuan/exception
+composer require fanqingxuan/exception
 ```
 
 ## Usage
